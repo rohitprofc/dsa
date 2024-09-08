@@ -9,6 +9,6 @@ int main()
         sum = sum + i;
         i++;
     }
-    cout << "Sum of " << N << " natural numbers: " << sum << endl;
+    cout << "Sum of first " << N << " natural numbers: " << sum << endl;
     return 0;
 }

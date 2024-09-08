@@ -3,14 +3,14 @@ using namespace std;
 
 int main()
 {
-    int num1 = 4, num2 = 5;
-    if (num1 < num2)
+    int a = 4, b = 5;
+    if (a < b)
     {
-        cout << "Smallest number is " << num1 << endl;
+        cout << "Smallest number is " << a << endl;
     }
     else
     {
-        cout << "Smallest number is " << num2 << endl;
+        cout << "Smallest number is " << b << endl;
     }
     return 0;
 }
